@@ -2,7 +2,10 @@
 
 - O que é o Node.js?
 - Para que serve o NPM?
-- Para que serve o Pacote nodemon
+- Para que serve o Pacote nodemon?
+- O que é e para que serve o framework Express? (configurar rotas)
+- O que é uma API?
+
 
 # Comandos
 
@@ -24,3 +27,11 @@
 
 - git init
 - git remote add origin https://github.com/Nicolas-BG/API-NODE-EXPRESS-ADS2SEM2023.git
+- git status
+- git add .
+- git commit -m "[]" (-m pra colocar mensagem)
+- git push
+
+# Outros
+
+- Json Viewer extensão do chrome
