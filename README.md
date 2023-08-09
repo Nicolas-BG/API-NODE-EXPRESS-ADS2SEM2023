@@ -5,6 +5,7 @@
 - Para que serve o Pacote nodemon?
 - O que é e para que serve o framework Express? (configurar rotas)
 - O que é uma API?
+- O que é o Padrão de Projeto Middleware?
 
 
 # Comandos

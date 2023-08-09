@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "c9b8b121-04b6-4408-a27f-f89d9cd219bd",
+    "colName": "user",
+    "created": "2023-08-09T00:20:27.832Z",
+    "sortNum": 10000,
+    "folders": []
+  },
+  {
+    "_id": "c10571ae-fc3a-4ce5-904f-57a7acb2ef0a",
+    "colName": "product",
+    "created": "2023-08-09T00:24:11.985Z",
+    "sortNum": 20000,
+    "folders": []
+  }
+]
