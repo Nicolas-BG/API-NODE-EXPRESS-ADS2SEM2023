@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "_id": "f4b05083-b058-46a2-beb1-0cb792591515",
+    "name": "dev",
+    "default": true,
+    "sortNum": 20000,
+    "created": "2023-08-15T23:06:23.237Z",
+    "modified": "2023-08-15T23:07:22.969Z",
+    "data": [
+      {
+        "name": "host",
+        "value": "http://localhost:3000"
+      }
+    ]
+  },
+  {
+    "_id": "247832a6-8ee4-4c6f-b823-22432903e1f2",
+    "name": "production",
+    "default": false,
+    "sortNum": 30000,
+    "created": "2023-08-15T23:07:32.209Z",
+    "modified": "2023-08-15T23:08:02.005Z",
+    "data": [
+      {
+        "name": "host",
+        "value": "https://api-express-node-7twp.onrender.com"
+      }
+    ]
+  }
+]
